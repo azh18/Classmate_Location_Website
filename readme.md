@@ -1,5 +1,4 @@
 # Classmate Location Website
-----
 
 ## 主要需求
 ### 以动态地图的形式展示分布在不同省份的同学的名字
